@@ -1,0 +1,2 @@
+Vibe App 
+A simple and modern social media UI built with Flutter
